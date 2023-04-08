@@ -1,6 +1,6 @@
 # prompt_openai.py
 # parsing with openai-guided prompts
-from tkinter import E
+# from tkinter import E
 import config
 import random
 import json
